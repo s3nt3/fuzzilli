@@ -21,4 +21,4 @@ else
     echo "Unsupported operating system"
 fi
 
-ninja -C ./out/fuzzbuild d8
+ninja -C ./out/fuzzbuild d8 -j 16
