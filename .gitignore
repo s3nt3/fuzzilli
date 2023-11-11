@@ -6,6 +6,7 @@ Package.resolved
 .vscode
 .*.sw?
 .swiftpm
+.ccls-cache
 
 # custom GCE configuration
 Cloud/GCE/config.sh
